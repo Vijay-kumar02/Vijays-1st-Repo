@@ -1,4 +1,4 @@
 # Vijays-1st-Repo
-VIjays New 
+Vijays New 
 <br>
-Author VIJAY KUMAR N
+Author - VIJAY KUMAR N
